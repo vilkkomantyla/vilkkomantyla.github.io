@@ -14,8 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 
 My email address is of the form first_name.last_name@helsinki.fi. 
 
-[**CV**](https://www.overleaf.com/read/mmqcvwqpvtqw)
-
 ## Courses I've Taken
 
 [Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
