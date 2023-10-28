@@ -23,6 +23,11 @@ many passions and I try to make time for all of them, although it’s pretty cha
 [LinkedIn](https://www.linkedin.com/in/ville-veikko-mäntylä-74922a264/), 
 [GitHub](https://github.com/vilkkomantyla), [Instagram](https://www.instagram.com/villeveikkomantyla/)
 
+## CV
+
+You can find my
+CV [here](https://www.overleaf.com/read/frrngcvygwbm#9c1b7a).
+
 ## Contact
 
 My email address is ville-veikko.mantyla@helsinki.fi. 
@@ -145,7 +150,3 @@ and running programs as well as basic command-line tools.
 This is a project done in the course KIK-LG211 Building Natural Language Processing Applications. The 
 project is a search engine that can be used to search for movies in the Top 250 -list on IMDB.com. The 
 search engine was created using Python and its tools for natural language processing.
-
-## Misc. 
-
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
